@@ -9,11 +9,19 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Science Student at **University of Port Harcourt**
-- 💻 Full-Stack & Mobile Developer (Web + React Native)
-- 🚀 Passionate about building **real-world, scalable applications**
-- 🌱 Currently learning **Advanced Backend Systems, Prisma & Web3**
-- ⚡ Focused on writing **clean, maintainable, and secure code**
+- 🎓 Computer Science Student at **University of Port Harcourt**  
+- 💻 Full-Stack & Mobile Developer (Web + React Native)  
+- 📍 Location: **Port Harcourt, Nigeria**  
+- 💼 Industry Experience: **4+ years**  
+- 🚀 Passionate about building **real-world, scalable applications**  
+- 🌱 Currently learning **Advanced Backend Systems, Prisma & Web3**  
+- ⚡ Focused on writing **clean, maintainable, and secure code**  
+
+---
+
+## 📝 Professional Summary
+
+I am a dedicated software developer with over **4 years of industry experience**, specializing in **full-stack and mobile development**. I build scalable web and mobile applications using **React, Next.js, Node.js, Prisma, MongoDB, and React Native**. I focus on writing **clean, maintainable, and secure code** and enjoy solving complex real-world problems through technology.  
 
 ---
 
@@ -50,17 +58,17 @@
 
 ## 🚀 Current Projects
 
-- 🏥 Healthcare Web Application (Full-Stack)
-- 💳 Payment Integration System (Paystack)
-- 📱 Mobile App with React Native (Expo)
-- 🎓 Final Year Project (AI / Software System)
+- 🏥 Healthcare Web Application (Full-Stack)  
+- 💳 Payment Integration System (Paystack)  
+- 📱 Mobile App with React Native (Expo)  
+- 🎓 Final Year Project (AI / Software System)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vickyjohnson2004&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -68,7 +76,7 @@
 ## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vickyjohnson2004&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Vickyjohnson2004&theme=dark" />
 </p>
 
 ---
@@ -76,7 +84,7 @@
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickyjohnson2004&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -99,10 +107,10 @@
 
 ## ⚡ Fun Fact
 
-> I don't just write code — I build solutions that solve real-world problems 🚀
+> I don't just write code — I build solutions that solve real-world problems 🚀  
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vickyjohnson2004&theme=tokyonight&row=1&column=6" />
 </p>
