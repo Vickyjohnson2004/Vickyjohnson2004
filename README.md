@@ -65,28 +65,11 @@ I am a dedicated software developer with over **4 years of industry experience**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vickyjohnson2004&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vickyjohnson2004&theme=dark" />
 </p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickyjohnson2004&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
